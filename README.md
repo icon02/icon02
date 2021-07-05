@@ -1,5 +1,5 @@
 # About me
-Hi, my name is Nico, I'm 25 years old and I'm currently studying Computer Science at Johannes Kepler University Linz while also working part time. In my work
+Hi, my name is Nico, I'm 25 years old and I'm currently studying Computer Science at Johannes Kepler University Linz while also working part time. At work
 I am known as an allrounder, who can fix printer issues on the one hand and on the other can develop new systems that come in handy for our daily use.
 
 I spend a lot of my free time on personal projects. I am currently trying to develop my skills in ReactJS and SpringBoot Security, while looking forward to 
